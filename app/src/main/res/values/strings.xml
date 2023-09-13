@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodAppDesign</string>
+    <string name="title">Coffe lover</string>
+    <string name="extraSyrup">Extra syrup selection</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="hazelnut">Hazelnut</string>
+    <string name="caramel">Caramel</string>
+    <string name="milk">Milk options</string>
+    <string name="almond">Almond milk</string>
+    <string name="lactose">Lactose free milk</string>
+    <string name="cupSize">Cup size</string>
+    <string name="tall">Tall</string>
+    <string name="Grande">Grande</string>
+    <string name="Add">Add</string>
+    <string name="AddTo">Add to card</string>
+    <string name="shot">Extra shot</string>
+    <string name="price">5$</string>
+
+
+</resources>

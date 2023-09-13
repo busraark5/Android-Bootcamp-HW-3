@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodAppDesign</string>
+    <string name="title">Kahve severler</string>
+    <string name="extraSyrup">Extra şurup seçimi</string>
+    <string name="vanilla">Vanilya</string>
+    <string name="hazelnut">Fındık</string>
+    <string name="caramel">Karamel</string>
+    <string name="milk">Süt seçeneği</string>
+    <string name="almond">Bdem sütü</string>
+    <string name="lactose">Laktozsuz süt</string>
+    <string name="cupSize">Boy seçimi</string>
+    <string name="tall">Orta</string>
+    <string name="Grande">Büyük</string>
+    <string name="Add">Ekle</string>
+    <string name="AddTo">Sepete ekle</string>
+    <string name="shot">Extra shot</string>
+    <string name="price">80₺</string>
+
+
+</resources>
